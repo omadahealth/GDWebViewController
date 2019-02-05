@@ -18,6 +18,14 @@ For Swift 2 support go [here](https://github.com/coffellas-cto/GDWebViewControll
 Just grab two files `GDWebViewController.swift` and `GDWebViewNavigationToolbar.swift` into your project.<br />
 You can download `GDWebBrowserClient` project as well to see how it can be used.
 
+### CocoaPods
+
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate GDWebViewController into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+pod 'GDWebViewController'
+```
+
 ## GDWebViewController Interface
 #### Properties
 ```swift
